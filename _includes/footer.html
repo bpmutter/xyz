@@ -18,6 +18,9 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            {%- if site.copyright -%}
+            <li>copyright &copy; {{ 'now' | date: '%Y' }} {{ site.copyright }} | all rights reserved</li>
+            {%- endif -%}
         </ul>
       </div>
 

@@ -24,8 +24,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   realising untapped ideas through new knowledge.
 baseurl: "/xyz" # the subpath of your site, e.g. /blog
 url: "https://jinyoungch0i.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username: jinyoungch0i
+
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: jinyoung choi
+linkedin_username: jinyoungch0i
+
+# New fields not defaulted by jekyll-new with the minima theme (i.e. these are custom fields)
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: web domain + ext.
+copyright: 'jinyoung.xyz'
 
 # Build settings
 # Removed minima theme as it is now a regular theme. (i.e. you're no longer using a gem-based theme; you're using a 'regular' theme.)
