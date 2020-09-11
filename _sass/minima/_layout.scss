@@ -12,6 +12,7 @@
 
 .site-title {
   @include relative-font-size(1.625);
+  font-size: 3.25rem;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -37,7 +38,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: #0A0A0A;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
