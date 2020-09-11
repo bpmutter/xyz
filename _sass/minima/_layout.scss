@@ -124,8 +124,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  border-top: .75px solid $grey-color-light;
+  padding-bottom: 30px;
+  padding-top: 15px;
 }
 
 .footer-heading {
@@ -142,6 +143,7 @@
   font-size: 0.845rem;
 }
 
+/* the below classes were not used for customised footer */
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
@@ -191,7 +193,7 @@
   }
 }
 
-
+/* the above classes were not used for customised footer */
 
 /**
  * Page content
