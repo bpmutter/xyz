@@ -17,7 +17,7 @@
   @include relative-font-size(1.625);
   font-size: 3.25rem;
   font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: 3.1rem;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -31,7 +31,7 @@
 
 .site-nav {
   float: right;
-  line-height: 4.3rem;
+  line-height: 3.7rem;
 
 
   .nav-trigger {
