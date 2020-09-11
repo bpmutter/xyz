@@ -53,6 +53,10 @@
     }
   }
 
+  .page-link:hover {
+    color: #000;
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
