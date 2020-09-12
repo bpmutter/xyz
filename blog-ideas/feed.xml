@@ -1,1 +1,18 @@
-feed.xml
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <link href="{{- site.url -}}{{- site.baseurl -}}/blog-ideas/feed.xml" rel="self" type="application/atom+xml" />
+ <link href="{{- site.url -}}{{- site.baseurl -}}/blog-ideas/" rel="alternate" type="text/html" />
+ <updated>{{- site.time | date_to_xmlschema -}}</updated>
+ <id>{{- site.url -}}{{- site.baseurl -}}/blog-ideas/feed.xml</id>
+ <title>ideas | {{ site.title }}</title>
+ <subtitle>{{- site.description | strip_html | lstrip | rstrip -}} </subtitle>
+    <author>
+        <name>{%- if site.author -%}
+                {{- site.author -}}
+            {%- else -%}
+                {{- site.title -}}
+            {%- endif -%}</name>
+    </author>
+</feed>

@@ -21,7 +21,7 @@
 title: jinyoung
 email: jinyoungsjourney@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  will delete this description since i don't want to come across pompous
+  An open book on everyday observations and deeper reflections on defining life endeavours
 baseurl: "/xyz" # the subpath of your site, e.g. /blog
 url: "https://jinyoungch0i.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
