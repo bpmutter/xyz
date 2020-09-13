@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: 'about'
 permalink: /about
 ---
 <div class='profile-pic'>
