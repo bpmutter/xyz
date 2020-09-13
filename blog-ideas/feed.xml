@@ -18,6 +18,12 @@
  {%- for post in site.posts limit: 20 -%}{%- if post.category=="ideas" -%}
   <entry>
     <title>{{- post.title -}}</title>
+    <id>{{- site.url -}}{{- site.baseurl -}}{{- post.url -}}</id>
+    <link href="{{- site.url -}}{{- site.baseurl -}}{{- post.url -}}"/>
+    <updated>{{- post.date | date_to_xmlschema -}}</updated>
+    <summary>{%- if post.excerpt -%}
+        {{- post.excerpt | strip_html | lstrip | rstrip -}}
+        {%- endif -%}</summary>
   </entry>
  {%- endif -%}{%- endfor -%}
 </feed>

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "ideas [1]"
+date:   2020-09-13 18:12:11 +0900
+category: ideas
+---
+
+this is the second ideas entry, which was created by cmd+n on sublime text and saving it to the xyz/blog-ideas/_posts directory. 
+
+edit: thank you stackoverflow! the date was set to a future date which is why it wouldn't work. thankfully that was a very quick fix...
+
+hopefully this works. either way, copying the last entry and modifying and saving the newly modified version does not work. uf.
