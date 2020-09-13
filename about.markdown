@@ -14,5 +14,3 @@ permalink: /about
 So far in my lived years, I'm most grateful to have had the opportunity to make new connections with various cultures and environments. I'm privileged that my journey has been fairly unfettered; I'd like to continue being open to new ideas and engage with them with intention. 
 
 Best way to reach out to me is via [email](mailto:jinyoungsjourney@gmail.com){:target="_blank"}, though you can also find me on [github](https://github.com/jinyoungch0i){:target="_blank"} or [linkedin](https://linkedin.com/jinyoungch0i){:target="_blank"}.
-
-Thank you for supporting me in my journey! 
