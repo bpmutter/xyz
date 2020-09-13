@@ -16,5 +16,3 @@ So far in my lived years, I'm most grateful to have had the opportunity to make 
 Best way to reach out to me is via [email](mailto:jinyoungsjourney@gmail.com){:target="_blank"}, though you can also find me on [github](https://github.com/jinyoungch0i){:target="_blank"} or [linkedin](https://linkedin.com/jinyoungch0i){:target="_blank"}.
 
 Thank you for supporting me in my journey! 
-
-(for earlier followers of my journey, I have migrated all of my previous entries from jinyoungsjourney.wordpress.com to [longreads](/blog-journey), inspired by- you guessed it- The Guardian's [long read series](https://www.theguardian.com/news/series/the-long-read)) 
