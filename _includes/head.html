@@ -3,10 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
+  <link rel="preload" as="font" type="font/woff"
+  href="./fonts/ubuntu-mono-v10-latin-regular.woff" crossorigin>
+  <link rel="preload" as="font" type="font/woff2"
+  href="./fonts/ubuntu-mono-v10-latin-regular.woff2" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  <link rel="preload" as="font" type="font/woff2" href="www.jinyoung.xyz/fonts/ubuntu-mono-v10-latin-regular.woff2" crossorigin>
 </head>
