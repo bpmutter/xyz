@@ -31,6 +31,7 @@ github_username: jinyoungch0i
 # Author is the default for posts, the Atom feed, and is used in the footer.
 author: Jin Young Choi
 linkedin_username: jinyoungch0i
+show_excerpts: true
 
 # New fields not defaulted by jekyll-new with the minima theme (i.e. these are custom fields)
 # Add a copyright. A copyright symbol and year will be added automatically
