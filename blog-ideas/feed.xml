@@ -8,11 +8,16 @@
  <id>{{- site.url -}}{{- site.baseurl -}}/blog-ideas/feed.xml</id>
  <title>ideas | {{ site.title }}</title>
  <subtitle>{{- site.description | strip_html | lstrip | rstrip -}} </subtitle>
-    <author>
-        <name>{%- if site.author -%}
-                {{- site.author -}}
-            {%- else -%}
-                {{- site.title -}}
-            {%- endif -%}</name>
-    </author>
+  <author>
+    <name>{%- if site.author -%}
+        {{- site.author -}}
+        {%- else -%}
+          {{- site.title -}}
+        {%- endif -%}</name>
+  </author>
+ {%- for post in site.posts limit: 20 -%}{%- if post.category=="ideas" -%}
+  <entry>
+    <title>{{- post.title -}}</title>
+  </entry>
+ {%- endif -%}{%- endfor -%}
 </feed>
