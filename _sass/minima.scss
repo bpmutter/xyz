@@ -6,7 +6,7 @@
 $title-font-family: 'Ubuntu Mono', monospace;
 $base-font-family: 'Ubuntu Mono', monospace !default;
 $base-font-size:   18px !default;
-$base-font-weight: 400 !default;
+$base-font-weight: 500 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
@@ -43,6 +43,7 @@ $on-laptop:        800px !default;
 
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
+  font-weight: $base-font-weight * $ratio;
 }
 
 // Import partials.
