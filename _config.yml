@@ -33,9 +33,6 @@ author: Jin Young Choi
 linkedin_username: jinyoungch0i
 show_excerpts: true
 
-# Google Font: Ubuntu Mono
-google_fonts: Ubuntu+Mono&display=swap"
-
 # New fields not defaulted by jekyll-new with the minima theme (i.e. these are custom fields)
 # Add a copyright. A copyright symbol and year will be added automatically
 # copyright: web domain + ext.
