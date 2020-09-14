@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "dev [1]"
+date:   2020-09-14 09:12:11 +0900
+category: dev
+---
+
+dev blog post 2 placeholder.
