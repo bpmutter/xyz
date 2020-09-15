@@ -1,8 +1,0 @@
----
-layout: post
-title:  "journey [0]"
-date:   2020-09-13 22:21:11 +0900
-category: journey
----
-
-journey entry placeholder
