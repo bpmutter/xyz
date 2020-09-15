@@ -7,4 +7,6 @@ title: 'dev'
 category: dev
 ---
 
-Below are programming-related ideas that I've built, with links to their source code in my public [github](https://github.com/jinyoungch0i){:target="_blank"} repositories.
+Below are programming-related ideas that I've built, including this very blog that you are seeing! 
+
+*links to their source code in my public [github](https://github.com/jinyoungch0i){:target="_blank"} repositories.*
