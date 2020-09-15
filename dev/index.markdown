@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-dev
-title: 'development'
+title: 'portfolio'
 category: dev
 ---
 
