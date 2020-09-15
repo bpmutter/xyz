@@ -1,34 +1,16 @@
 ---
-layout: default
+layout: page
+title: 'about'
+permalink: /about
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
-
-  <p class="rss-subscribe">subscribe to my<a href="{{ "/feed.xml" | relative_url }}"> rss feed</a></p>
-
+<div class='profile-pic'>
+  <img src="{{ site.baseurl }}/assets/images/obidos.jpeg" id='circular' alt='jinyoung standing in a portuguese field'>
 </div>
+
+<h3 id="hey-there-">Hey there!</h3>
+<h4 id="my-name-is-jin-young-and-i-like-to-write-to-materialise-my-evolving-thoughts-on-life-s-journey-">My name is Jin Young, and I like to write to materialise my evolving thoughts on my life's journey.</h4>
+<p>I try to seek new ideas and engage with them intentionally. Building on that principle, <a href="https://jinyoung.xyz/" target="_blank">jinyoung.xyz</a> is a medium on which I hope to share my recent endeavours and ultimately live a more conscious life through journal-esque writing. </p>
+<p>Best way to reach out to me is via <a href="mailto:jinyoungsjourney@gmail.com" target="_blank">email</a> and <a href="https://jinyoung.xyz/blog-dev/" target="_blank">dev</a> is my creative outlet.</p>
+
+<i class="rss-subscribe">subscribe to my<a href="{{ "/feed.xml" | relative_url }}"> rss feed</a></i>
