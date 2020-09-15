@@ -7,6 +7,4 @@ title: 'dev'
 category: dev
 ---
 
-As a self-taught programmer, I attribute my journey into the domain of software development to the open-source community. Ideas that I've built upon are available below, with links to their source code in public [github](https://github.com/jinyoungch0i){:target="_blank"} repositories.
-
-*Please reach out via [email](mailto:jinyoungsjourney@gmail.com){:target="_blank"} for the latest version of my resume.*
+Below are programming-related ideas that I've built, with links to their source code in my public [github](https://github.com/jinyoungch0i){:target="_blank"} repositories.
