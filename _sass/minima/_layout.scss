@@ -16,7 +16,7 @@
 .site-title {
   @include relative-font-size(1.625);
   font-size: 3.25rem;
-  font-weight: 300;
+  font-weight: 600;
   line-height: 3.1rem;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -30,8 +30,7 @@
 }
 
 .site-title:hover {
-  font-weight: 900;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .site-nav {

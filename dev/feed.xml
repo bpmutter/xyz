@@ -2,11 +2,11 @@
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <link href="{{- site.url -}}{{- site.baseurl -}}/blog-journey/feed.xml" rel="self" type="application/atom+xml" />
- <link href="{{- site.url -}}{{- site.baseurl -}}/blog-journey/" rel="alternate" type="text/html" />
+ <link href="{{- site.url -}}{{- site.baseurl -}}/dev/feed.xml" rel="self" type="application/atom+xml" />
+ <link href="{{- site.url -}}{{- site.baseurl -}}/dev/" rel="alternate" type="text/html" />
  <updated>{{- site.time | date_to_xmlschema -}}</updated>
- <id>{{- site.url -}}{{- site.baseurl -}}/blog-journey/feed.xml</id>
- <title>journey | {{ site.title }}</title>
+ <id>{{- site.url -}}{{- site.baseurl -}}/dev/feed.xml</id>
+ <title></> | {{ site.title }}</title>
  <subtitle>{{- site.description | strip_html | lstrip | rstrip -}} </subtitle>
   <author>
     <name>{%- if site.author -%}
@@ -15,7 +15,7 @@
           {{- site.title -}}
         {%- endif -%}</name>
   </author>
- {%- for post in site.posts limit: 20 -%}{%- if post.category=="journey" -%}
+ {%- for post in site.posts limit: 20 -%}{%- if post.category=="dev" -%}
   <entry>
     <title>{{- post.title -}}</title>
     <id>{{- site.url -}}{{- site.baseurl -}}{{- post.url -}}</id>

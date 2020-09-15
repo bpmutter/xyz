@@ -2,10 +2,10 @@
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <link href="{{- site.url -}}{{- site.baseurl -}}/blog-longreads/feed.xml" rel="self" type="application/atom+xml" />
- <link href="{{- site.url -}}{{- site.baseurl -}}/blog-longreads/" rel="alternate" type="text/html" />
+ <link href="{{- site.url -}}{{- site.baseurl -}}/longreads/feed.xml" rel="self" type="application/atom+xml" />
+ <link href="{{- site.url -}}{{- site.baseurl -}}/longreads/" rel="alternate" type="text/html" />
  <updated>{{- site.time | date_to_xmlschema -}}</updated>
- <id>{{- site.url -}}{{- site.baseurl -}}/blog-longreads/feed.xml</id>
+ <id>{{- site.url -}}{{- site.baseurl -}}/longreads/feed.xml</id>
  <title>longreads | {{ site.title }}</title>
  <subtitle>{{- site.description | strip_html | lstrip | rstrip -}} </subtitle>
   <author>
