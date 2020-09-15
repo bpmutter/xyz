@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "jinyoung.xyz"
-date:   2020-09-16 21:21:11 +0900
+date:   2020-09-16 02:36:11 +0900
 category: dev
 ---
 
