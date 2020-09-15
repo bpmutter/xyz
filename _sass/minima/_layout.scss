@@ -13,6 +13,10 @@
   position: relative;
 }
 
+.rss-subscribe {
+  color: #A9A7A7;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-size: 3.25rem;
