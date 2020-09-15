@@ -1,9 +1,9 @@
 # jinyoung.xyz
 
-jinyoung.xyz is my custom-built site that is run on Github Pages and Jekyll. 
+jinyoung.xyz is a custom-built site that is currently hosted on Github Pages. I have used Jekyll, a Ruby-based static site generator, for its blog-ready functionality and ease of deployment.
 
-Although I had been thinking of building my first site with Python (my native language) and Flask, I came to understand that the free web-hosting service Github Pages only supports static websites. 
+Although I had been thinking of building my first site with Python (my native language) and Flask, I came to understand that the Github Pages, which is hosting [jinyoung.xyz](https://jinyoung.xyz/) at no additional cost, only supports static websites. 
 
-My initial plan was to make a dynamic website that connects to a SQLite db, though I concluded that a static website will be a perfect starting point for now.
+My initial plan was to make a dynamic website that connects to a SQLite database, though I concluded that a static website will be a perfect starting point for now.
 
-While I am still exploring various avenues to scale jinyoung.xyz (Github Pages only allows upto 1GB of repository storage after all), I am happy to have gotten to learn how to deploy a fast and responsive website that also allowed me to flex my web development muscles. I used Jekyll's default [minima theme](https://jekyll.github.io/minima/) as a foundation, from which I built [jinyoung.xyz](https://jinyoung.xyz/) using custom HTML5, CSS3, SASS, and Liquid code. 
+While I am still exploring various avenues to scale jinyoung.xyz (Github Pages only allows upto 1GB of repository storage after all), I am happy to have gotten to learn how to deploy a fast and responsive website that also has allowed me to flex my web development muscles. I used Jekyll's default [minima theme](https://jekyll.github.io/minima/) as a foundation, from which I built [jinyoung.xyz](https://jinyoung.xyz/) using custom HTML5, CSS3, SASS, and Liquid code. 
