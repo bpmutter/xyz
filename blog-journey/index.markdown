@@ -9,4 +9,4 @@ category: journey
 
 It dawned on me that a [blog](https://jinyoungsjourney.wordpress.com/){:target="_blank"} composed of predominantly lengthy entries prevents me from keeping a good habit of recording more regular and candid insights. 
 
-*Entries below are my commitment to place those ordinary experiences at equal value to larger moments that can be found in [longreads](https://jinyoung.xyz/blog-longreads/){:target="_blank"}.*
+*Entries below are my commitment to place those ordinary experiences at equal value to larger moments that can be found in [longreads](https://jinyoung.xyz/blog-longreads/).*

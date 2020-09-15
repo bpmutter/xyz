@@ -7,6 +7,6 @@ title: 'dev'
 category: dev
 ---
 
-Below are some programs that I've built, including this very blog that you are seeing! 
+Below are some programs that I've built, including [this very blog](https://github.com/jinyoungch0i/xyz){:target="_blank"} that you are seeing. 
 
 *links to their source code in my public [github](https://github.com/jinyoungch0i){:target="_blank"} repositories.*
