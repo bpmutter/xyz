@@ -4,7 +4,7 @@
  * Site header
  */
 .site-header {
-  border-top: 1.25rem solid $background-color;
+  border-top: 3rem solid $background-color;
   border-bottom: 0.5rem solid $background-color;
   min-height: $spacing-unit * 1.865;
 
@@ -116,6 +116,7 @@
  */
 .site-footer {
   border-top: .75px solid $grey-color-light;
+  border-bottom: 1rem solid $background-color;
   padding-bottom: 30px;
   padding-top: 15px;
 }
