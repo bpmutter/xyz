@@ -1,7 +1,6 @@
 <footer class="site-footer h-card">
     <data class="u-url" href="{{ "/" | relative_url }}"></data>
     <div class="wrapper">
-        {%- include social.html -%}
         <div class="social-links">
             <ul class="social-media-list">
                 {%- if site.copyright -%}
@@ -9,6 +8,6 @@
                 {%- endif -%}
             </ul>
         </div>
-
+        {%- include social.html -%}
     </div>
 </footer>
