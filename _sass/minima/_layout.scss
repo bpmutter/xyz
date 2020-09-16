@@ -213,11 +213,15 @@
 }
 
 .page-heading {
-  @include relative-font-size(1.778);
+  font-size: 2em;
+  line-spacing: 0px;
+  line-height: 1;
 }
 
 .post-list-heading {
-  @include relative-font-size(1.778);
+  font-size: 2em;
+  line-spacing: 0px;
+  line-height: 1;
 }
 
 .post-list {
