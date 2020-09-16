@@ -7,7 +7,9 @@ category: dev
 
 [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} is a custom-built site that is currently hosted on Github Pages. I have used Jekyll, a Ruby-based static site generator, for its blog-ready functionality and ease of deployment.
 
-Although I had been thinking of building my first site with Python (my native language) and Flask, I came to understand that the Github Pages, which is hosting [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} at no additional cost, only supports static websites. 
+[**Link** to source code](https://github.com/jinyoungch0i/xyz){:target="_blank"}
+
+Although I had been thinking of building my first site with Python (my native language) and Flask, I came to understand that Github Pages, which is hosting [jinyoung.xyz](https://jinyoung.xyz/){:target="_blank"} at no additional cost, only supports static websites. 
 
 My initial plan was to make a dynamic website that connects to a SQLite database, though I concluded that a static website will be a perfect starting point for now.
 
