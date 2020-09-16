@@ -13,10 +13,10 @@ Looking back, programming is not unlike poetry (or prose, for that matter) in th
 
 I think this concept of abandoning one's craft has been particularly pertinent to my recent endeavour of building jinyoung.xyz, my first-ever project that I am releasing into the wild. 
 
-After I had admittedly finished building its mvp, I have found myself focusing on improving more and more small functionalities that don't immediately cause any concern to its visitors (my parents, who have gracefully maintained interest in the numerous miniscule iterations I make on the website). 
+After I had admittedly finished building the mvp, I have found myself focusing on improving more and more small functionalities that don't immediately cause any concern to its visitors (my parents, who have gracefully maintained interest in the numerous miniscule iterations I make on the website). 
 
 It's definitely interesting enough to keep me thinking that programming, through uncovering its layers of abstraction, is still something of black magic. For instance, I worked on editing the social icons in the footer, which need to be added to the root directory as a collective .svg file (whereby each social links icon is hardcoded line by line), and each icon can be manipulated by different CSS trickery that I don't think I have enough time to explain in this 20-minute entry.
 
-Anyways, in times like these, I do find it especially useful to have my whiteboard easily accessble, in the case that my fleeting propositions may not hold onto their real estate on my headspace. I cannot be more glad that the coronavirus is keeping me home; otherwise, it would feel less natural to remain glued to my computer, anticipating the lightbulb moments and promptly act on those.
+Anyways, in times like these, I do find it especially useful to have my whiteboard easily accessble, in the case that my fleeting propositions may not hold onto their real estate in my headspace. I cannot be more glad that coronavirus is keeping me home; otherwise, it would feel less natural to remain glued to my computer, anticipating the lightbulb moments and promptly acting on those.
 
-20 mins are up; need to adhere to this artificial limit as to keep myself on track. Perhaps I should alternate between languages that I feel like I'm starting to lose fluency in. Brasilian Portuguese is still the lingua franca of my showers, though I miss being able to express my thoughts in the language. :)
+20 mins are up; need to adhere to this limit as to keep myself on track. Perhaps I should alternate between languages that I feel like I'm starting to lose fluency in. Brasilian Portuguese is still the lingua franca of my showers, though I miss being able to express my thoughts in the language. :)
