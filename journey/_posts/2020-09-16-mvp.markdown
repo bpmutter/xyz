@@ -19,4 +19,4 @@ With the MVP to celebrate, I do want to mark certain feelings that I have develo
 
 *Building a website is no joke, yet trying to build one that is responsive is a whole another level of no joke. I decided to choose Jekyll since it comes somewhat-responsive but, after iterating over and over to make jinyoung.xyz look exactly how I want it to, the responsiveness is now something I need to improve on. I have no regrets over customising the h@#! out of the built-in minima theme; I do think that making it responsive, once again, will teach me a lot about how SASS works, and to delve into layers and layers of abstraction that Jekyll has provided. 
 
-20 mins is up, I have many more thoughts I want to keep a record of. But I suppose this will do for now :).
+20 mins are up, I have many more thoughts I want to keep a record of. But I suppose this will do for now. :)
