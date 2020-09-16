@@ -1,11 +1,13 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-        <ul class="contact-list">
-            {%- if site.copyright -%}
-            <li>| copyright &copy; {{ 'now' | date: '%Y' }} {{ site.copyright }} |</li>
-            {%- endif -%}
-        </ul>
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    <div class="wrapper">
+        <div class="social-links">
+            <ul class="social-media-list">
+                {%- if site.copyright -%}
+                    <li>| copyright &copy; {{ 'now' | date: '%Y' }} {{ site.copyright }} |</li>
+                {%- endif -%}
+            </ul>
+        </div>
         {%- include social.html -%}
-
+    </div>
 </footer>

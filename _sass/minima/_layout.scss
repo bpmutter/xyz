@@ -125,13 +125,30 @@
   margin-bottom: $spacing-unit / 2;
 }
 
+/* social tags positioning! */
+
+.social-media-list {
+  display: table;
+  margin: 0 auto;
+}
+
+.social-media-list li, .pagination li {
+  float: left;
+  margin: 5px 10px 5px 0;
+}
+
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: 0;
-  display: inline;
-  text-align: center;
-  font-size: 0.845rem;
+}
+
+.social-media-list li a {
+  display: block;
+  padding: 7.5px;
+  border: 1px solid #828282;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
 }
 
 /* the below classes were not used for customised footer */

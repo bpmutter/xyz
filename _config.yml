@@ -32,7 +32,8 @@ github_username: jinyoungch0i
 author: Jin Young Choi
 linkedin_username: jinyoungch0i
 show_excerpts: true
-
+stackoverflow_username: 14270947/jin-young-choi
+rss: rss
 # New fields not defaulted by jekyll-new with the minima theme (i.e. these are custom fields)
 # Add a copyright. A copyright symbol and year will be added automatically
 # copyright: web domain + ext.
