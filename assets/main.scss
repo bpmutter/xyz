@@ -4,6 +4,8 @@
 
 @import "minima";
 
+/* responsive profile picture (jinyoung standing in a portuguese field) */
+
 .profile-pic {
     display: flex;
     justify-content: center;
@@ -16,12 +18,13 @@
     border-radius: 50%;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:2000px) {
 
     #circular {
-        width: 200px;
-        height: 200px;
+        width: 225px;
+        height: 225px;
         margin-top: -3.25rem;
     }
 
 }
+
