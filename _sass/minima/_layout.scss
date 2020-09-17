@@ -17,7 +17,7 @@
   font-size: 3.25rem;
   font-weight: 550;
   line-height: 3.1rem;
-  letter-spacing: -0.07em;
+  letter-spacing: -0.07rem;
   color: #AF5E59;
 
   &,
@@ -45,6 +45,7 @@ that is NOT the last one on the list */
 .nav-link {
   margin-right: 1.875em;
   color: #4E6E4E;
+  font-size: 1.55rem;
 
   &:hover {
     color: #000;
@@ -55,6 +56,7 @@ that is NOT the last one on the list */
 since its the right-tail end of the nav bar */
 .tail-link {
   color: #4E6E4E;
+  font-size: 1.55rem;
 
   &:hover {
     color: #000;
