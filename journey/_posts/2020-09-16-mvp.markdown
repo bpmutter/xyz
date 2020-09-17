@@ -7,7 +7,7 @@ category: journey
 
 After a week of rabbitholes and flipping through god-knows-how-many browser tabs of documentations and tutorials, jinyoung.xyz mvp (minimum viable product) is finally built. 
 
-I knew that, like most things programming, this project will take much longer than initially anticipated due to the fact that the very beginning of crafting this blog stemmed from blissful ignorance on certain key things like learning how web-hosting works, how to work with SASS (on top of CSS), how to self-host Google Fonts (key if you don't want Google to track your site's visitors via their API)... The list goes on, and I have my Github Contributions graphic to show for the countless iterations I have done in order to spruce up jinyoung.xyz to where it is today.
+I knew that, like most things programming, this project will take much longer than initially anticipated due to the fact that the very beginning of crafting this blog stemmed from blissful ignorance on certain key things like learning how web-hosting works, how to work with SASS (on top of CSS), how to self-host Google Fonts (key if you care about data privacy), how to use liquid templating engine... The list goes on, and I have my Github Contributions graphic to show for the countless iterations I have done in order to spruce up jinyoung.xyz to where it is today.
 
 This is my first journey entry, and I'm being deliberate on making this the standard for the rest of the entries that shall follow. Given that I want to keep it a daily (ambitious, I know) habit to write journal entries (otherwise, what's the point?), I am giving myself 20 mins of writing time and couldn't care less for grammar or organisation (think of it as freudian stream-of-consciousness, I suppose). 
 
