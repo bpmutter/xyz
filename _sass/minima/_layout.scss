@@ -8,6 +8,8 @@
   border-bottom: 0.5rem solid $background-color;
   min-height: $spacing-unit * 1.865;
   text-align: center;
+  margin-left: auto;
+  margin-right:auto;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -17,8 +19,10 @@
   font-size: 3.25rem;
   font-weight: 550;
   line-height: 3.1rem;
-  letter-spacing: -0.07rem;
+  letter-spacing: -0.25rem;
   color: #AF5E59;
+  margin-left: auto;
+  margin-right:auto;
 
   &,
   &:visited {
@@ -159,7 +163,8 @@ since its the right-tail end of the nav bar */
  * Page content
  */
 .page-content {
-  padding: 0px 0;
+  margin-left: auto;
+  margin-right: auto;
   flex: 1;
 }
 
@@ -222,29 +227,29 @@ since its the right-tail end of the nav bar */
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h2 {
-    @include relative-font-size(2);
+  // h2 {
+  //   @include relative-font-size(2);
 
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
-    }
-  }
+  //   @include media-query($on-laptop) {
+  //     @include relative-font-size(1.75);
+  //   }
+  // }
 
-  h3 {
-    @include relative-font-size(1.625);
+  // h3 {
+  //   @include relative-font-size(1.625);
 
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.375);
-    }
-  }
+  //   @include media-query($on-laptop) {
+  //     @include relative-font-size(1.375);
+  //   }
+  // }
 
-  h4 {
-    @include relative-font-size(1.25);
+  // h4 {
+  //   @include relative-font-size(1.25);
 
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.125);
-    }
-  }
+  //   @include media-query($on-laptop) {
+  //     @include relative-font-size(1.125);
+  //   }
+  // }
 }
 
 /*this border highlight was experimented on but decided not to go forward with it. saved for potential later use 9/17 //
