@@ -4,8 +4,7 @@
  * Site header
  */
 .site-header {
-  border-top: solid $background-color;
-  border-bottom: 0.5rem solid $background-color;
+
   min-height: $spacing-unit * 1.865;
   text-align: center;
   margin-left: auto;
@@ -37,10 +36,12 @@
 /* navbar overhaul! previous code was removed */
 .navigation-bar {
   list-style: none;
-  display: table;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0.625rem;
+  margin-bottom: 0.001rem; // this is just a margin value so that border can be added
+  border-bottom: 2.5px dotted $grey-color;
+
 }
 
 
@@ -55,6 +56,15 @@ that is NOT the last one on the list */
   &:hover {
     color: #000;
   }
+
+/* this to be used for | journey | longreads | </> | photos for navbar, once mediaquery issue is dealt with and nav bar and title shrinks like the h1 h2 h3 tags */
+.nav-spacer {
+  color: #4E6E4E;
+  font-size: .30rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-grid;
+}
 
   // a {
   //   @include relative-font-size(1.25);
@@ -99,7 +109,7 @@ since its the right-tail end of the nav bar */
  * Site footer
  */
 .site-footer {
-  border-top: .75px solid $grey-color-light;
+  // border-top: .75px solid $grey-color-light;
   // border-bottom: 1rem solid $background-color;
   padding-bottom: 0px;
   padding-top: 1px;
@@ -131,6 +141,7 @@ since its the right-tail end of the nav bar */
   margin-left: auto;
   margin-right: auto;
   flex: 1;
+  // border-bottom: 2.5px dotted $grey-color;
 }
 
 .page-heading {
