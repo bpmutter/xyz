@@ -17,7 +17,7 @@
   font-size: 3.25rem;
   font-weight: 550;
   line-height: 3.1rem;
-  letter-spacing: 0.219em;
+  letter-spacing: -0.07em;
   color: #AF5E59;
 
   &,
@@ -48,21 +48,8 @@ that is NOT the last one on the list */
 
   &:hover {
     color: #000;
+  }
 }
-
-}
-
-// @media screen and (max-width:600px) {
-//   .nav-link {
-//     margin-right: 14px;
-//     font-size: 18px;
-//   }
-//   .tail-link {
-//     font-size: 18px;
-//   }
-
-}
-
 
 /*tail link is currently for 'pics',
 since its the right-tail end of the nav bar */
@@ -74,8 +61,14 @@ since its the right-tail end of the nav bar */
   }
 }
 
-
-
+// @media screen and (max-width:600px) {
+//   .nav-link {
+//     margin-right: 14px;
+//     font-size: 18px;
+//   }
+//   .tail-link {
+//     font-size: 18px;
+//   }
 
 /**
  * Site footer
