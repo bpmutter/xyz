@@ -19,4 +19,4 @@ It's definitely interesting enough to keep me thinking that programming, through
 
 Anyways, in times like these, I do find it especially useful to have my whiteboard easily accessble, in the case that my fleeting propositions may not hold onto their real estate in my headspace. I cannot be more glad that coronavirus is keeping me home; otherwise, it would feel less natural to remain glued to my computer, anticipating the lightbulb moments and promptly acting on those.
 
-20 mins are up; need to adhere to this limit as to keep myself on track. Perhaps I should alternate between languages that I feel like I'm starting to lose fluency in. Brasilian Portuguese is still the lingua franca of my showers, though I miss being able to express my thoughts in the language. :)
+20 mins are up; need to adhere to this limit as to keep myself on track. Perhaps I should alternate between languages that I feel like I'm starting to lose fluency in. Brasilian Portuguese is still the lingua franca of my showers (shout out to Bossa nova), though I miss being able to express my thoughts more actively in the language. :)
