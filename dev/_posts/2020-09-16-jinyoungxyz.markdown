@@ -19,3 +19,4 @@ To-do:
 * Self-host analytics.
 * Connect site to other APIs.
 * Improve site's SEO.
+* Make landing page EN/KR/ES/PT friendly.
