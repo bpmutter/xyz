@@ -3,14 +3,15 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    <nav class="site-nav">
-        <div class="trigger">
+    <div>
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </div>
+    <div="navigation-bar">
+        <ul class="social-media-list">
             <a class="page-link" href="/journey">journey</a>
             <a class="page-link" href="/longreads">longreads</a>
             <a class="page-link" href="/dev">&lt;/&gt;</a>
-        </div>
-      </nav>
+        </ul>
+    </div>
   </div>
 </header>
