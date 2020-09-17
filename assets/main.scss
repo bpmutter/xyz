@@ -12,19 +12,19 @@
 }
 
 #circular {
-    max-width: 350px;
-    max-height: 350px;
-    margin-bottom: 2rem;
+    max-width: 21.875rem;
+    max-height: 21.875rem;
+    margin-bottom: 1rem;
     border-radius: 50%;
 }
 
-@media screen and (max-width:400px) {
+// @media screen and (max-width:400px) {
 
-    #circular {
-        width: 250px;
-        height: 250px;
-        margin-top: -3.25rem;
-    }
+//     #circular {
+//         width: 250px;
+//         height: 250px;
+//         margin-top: -3.25rem;
+//     }
 
-}
+// }
 

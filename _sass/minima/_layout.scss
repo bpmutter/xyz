@@ -41,6 +41,7 @@
   margin-top: 0.625rem;
   margin-bottom: 0.001rem; // this is just a margin value so that border can be added
   border-bottom: 2.5px dotted $grey-color;
+  display: table;
 
 }
 
@@ -127,6 +128,7 @@ since its the right-tail end of the nav bar */
   margin-left: auto;
   margin-right: auto;
   font-size: 15px;
+  border-top: 2.5px dotted $grey-color;
 }
 
 
