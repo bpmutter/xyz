@@ -4,7 +4,7 @@
  * Site header
  */
 .site-header {
-  border-top: 1.5rem solid $background-color;
+  border-top: solid $background-color;
   border-bottom: 0.5rem solid $background-color;
   min-height: $spacing-unit * 1.865;
   text-align: center;
@@ -39,13 +39,14 @@
   margin-top: 0.625rem;
 }
 
+
 /*nav link is for journey, longreads, and </>,
 essentially all the pages that pop up in navigation bar
 that is NOT the last one on the list */
 .nav-link {
-  margin-right: 1.875rem;
+  margin-right: 1rem;
   color: #4E6E4E;
-  font-size: 1.55rem;
+  font-size: 1.40rem;
 
   &:hover {
     color: #000;
@@ -56,7 +57,7 @@ that is NOT the last one on the list */
 since its the right-tail end of the nav bar */
 .tail-link {
   color: #4E6E4E;
-  font-size: 1.55rem;
+  font-size: 1.40rem;
 
   &:hover {
     color: #000;
@@ -77,9 +78,9 @@ since its the right-tail end of the nav bar */
  */
 .site-footer {
   border-top: .75px solid $grey-color-light;
-  border-bottom: 1rem solid $background-color;
-  padding-bottom: 30px;
-  padding-top: 15px;
+  // border-bottom: 1rem solid $background-color;
+  padding-bottom: 0px;
+  padding-top: 1px;
 }
 
 .footer-heading {
@@ -89,80 +90,68 @@ since its the right-tail end of the nav bar */
 
 /* social tags positioning! */
 
-.social-media-list {
+.copyright-note {
   display: table;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
 }
 
-.social-media-list li, .pagination li {
-  float: left;
-  margin: 5px 10px 5px 10px;
-  font-size: 14px;
-}
 
-.contact-list,
-.social-media-list {
+.contact-list {
   list-style: none;
 }
 
-.social-media-list li a {
-  display: block;
-  padding: 7.5px;
-  border: 1px solid #828282;
-  border-radius: 50%;
-  width: 15px;
-  height: 15px;
-}
 
 /* the below classes were not used for customised footer */
-.footer-col-wrapper {
-  @include relative-font-size(0.9375);
-  color: $grey-color;
-  margin-left: -$spacing-unit / 2;
-  @extend %clearfix;
-}
+// .footer-col-wrapper {
+//   @include relative-font-size(0.9375);
+//   color: $grey-color;
+//   margin-left: -$spacing-unit / 2;
+//   @extend %clearfix;
+// }
 
-.footer-col {
-  float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
-}
+// .footer-col {
+//   float: left;
+//   margin-bottom: $spacing-unit / 2;
+//   padding-left: $spacing-unit / 2;
+// }
 
-.footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
-}
+// .footer-col-1 {
+//   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+//   width:         calc(35% - (#{$spacing-unit} / 2));
+// }
 
-.footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
-}
+// .footer-col-2 {
+//   width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+//   width:         calc(20% - (#{$spacing-unit} / 2));
+// }
 
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
-}
+// .footer-col-3 {
+//   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+//   width:         calc(45% - (#{$spacing-unit} / 2));
+// }
 
-@include media-query($on-laptop) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-  }
+// @include media-query($on-laptop) {
+//   .footer-col-1,
+//   .footer-col-2 {
+//     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+//     width:         calc(50% - (#{$spacing-unit} / 2));
+//   }
 
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
-  }
-}
+//   .footer-col-3 {
+//     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+//     width:         calc(100% - (#{$spacing-unit} / 2));
+//   }
+// }
 
-@include media-query($on-palm) {
-  .footer-col {
-    float: none;
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
-  }
-}
+// @include media-query($on-palm) {
+//   .footer-col {
+//     float: none;
+//     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+//     width:         calc(100% - (#{$spacing-unit} / 2));
+//   }
+// }
 
 /* the above classes were not used for customised footer */
 
@@ -178,7 +167,7 @@ since its the right-tail end of the nav bar */
   font-size: 2em;
   line-spacing: 0px;
   line-height: 1;
-  margin-top: 25px; /* this will need to be modified once <header> is centered for mobile-responsiveness */
+  margin-top: 15px; /* this will need to be modified once <header> is centered for mobile-responsiveness */
 }
 
 .post-list-heading {
@@ -257,3 +246,12 @@ since its the right-tail end of the nav bar */
     }
   }
 }
+
+/*this border highlight was experimented on but decided not to go forward with it. saved for potential later use 9/17 //
+
+.bar-border-highlight {
+  border: 0.117rem dashed #4E6E4E;
+  border-radius: 5px;
+  padding: 0.05rem 0.25rem;
+}
+*/
