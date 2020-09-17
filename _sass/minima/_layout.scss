@@ -7,20 +7,17 @@
   border-top: 1.5rem solid $background-color;
   border-bottom: 0.5rem solid $background-color;
   min-height: $spacing-unit * 1.865;
-
+  text-align: center;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  @include relative-font-size(1.625);
   font-size: 3.25rem;
   font-weight: 550;
   line-height: 3.1rem;
-  letter-spacing: -3px;
-  margin-bottom: 0;
-  float: left;
+  letter-spacing: -3.5px;
   color: #AF5E59;
 
   &,
@@ -32,6 +29,52 @@
 .site-title:hover {
   text-decoration: underline;
 }
+
+/* navbar overhaul! previous code was removed */
+.navigation-bar {
+  list-style: none;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+/*nav link is for journey, longreads, and </>,
+essentially all the pages that pop up in navigation bar
+that is NOT the last one on the list */
+.nav-link {
+  margin-right: 30px;
+  color: #4E6E4E;
+
+  &:hover {
+    color: #000;
+}
+
+}
+
+@media screen and (max-width:600px) {
+  .nav-link {
+    margin-right: 14px;
+    font-size: 18px;
+  }
+  .tail-link {
+    font-size: 18px;
+  }
+
+}
+
+
+/*tail link is currently for 'pics',
+since its the right-tail end of the nav bar */
+.tail-link {
+  color: #4E6E4E;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+
 
 
 /**
