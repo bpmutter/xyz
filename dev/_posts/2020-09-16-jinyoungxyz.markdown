@@ -20,6 +20,6 @@ To-do:
 * Connect site to other APIs.
 * Improve site's SEO.
 * Make landing page EN/KR/ES/PT friendly.
-* Find out how to embed images without affecting up 1GB of repository storage.
+* Find out how to embed images without taking up too much of 1GB repository storage.
 
 Feel free to comment by pulling my [repo](https://github.com/jinyoungch0i/xyz){:target="_blank"}. :)
