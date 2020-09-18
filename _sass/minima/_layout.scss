@@ -16,7 +16,7 @@
 
 .site-title {
   font-size: 3.25rem;
-  font-weight: 550;
+  font-weight: 570;
   line-height: 3.1rem;
   letter-spacing: -0.25rem;
   color: #AF5E59;
@@ -53,8 +53,10 @@ that is NOT the last one on the list */
   color: #4E6E4E;
   font-size: 1.40rem;
   border-bottom: 2.5px dotted $grey-color;
+
+
   &:hover {
-    color: #000;
+  color: #000;
   }
 
 /* this to be used for | journey | longreads | </> | photos for navbar, once mediaquery issue is dealt with and nav bar and title shrinks like the h1 h2 h3 tags */
@@ -82,6 +84,7 @@ since its the right-tail end of the nav bar */
   color: #4E6E4E;
   font-size: 1.40rem;
   border-bottom: 2.5px dotted $grey-color;
+
 
   &:hover {
     color: #000;
