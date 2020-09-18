@@ -15,7 +15,7 @@ While I'm still exploring various avenues to scale jinyoung.xyz (Github Pages on
 
 To-do:
 
-~~* Make site fully responsive.~~
+* ~~Make site fully responsive.~~
 * Self-host analytics.
 * Connect site to other APIs.
 * Improve site's SEO.
