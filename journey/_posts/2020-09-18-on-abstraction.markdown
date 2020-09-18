@@ -15,7 +15,7 @@ Wherever I am in the world (outside of my parent's livingroom), I can trust that
 
 Behind the creation of the remote controller is a team of engineers who essentially 'make the magic happen', outside of our plain sight, so that we, the average-joe users, can trust that we have full control of the TV without being experts in electrical engineering ourselves. 
 
-Within this team, there would very likely be a division of engineers working on the visual and tactile layout (also known as UI and UX, or the 'front-end'), and a separate one working on the wirings and machinery enclosed within the plastic container that, unbeknownst to us, somehow communicate with the the TV itself in order to provide that bridge between our physical input and graphical output on display.
+Within this team, there would very likely be a division of engineers working on the visual and tactile layout (also known as UI and UX, or the 'front-end'), and a separate one working on the wirings and machinery (or the 'back-end') enclosed within the plastic container that, unbeknownst to us,  communicate with the the TV itself in order to provide that bridge between our physical input and graphical output on display.
 
 The reason I bring up this analogy is because I'm being reminded once again that it's simply not intuitive for anyone to try to confront abstractions by delving into the core of things. After all, every piece of advanced technology is engineered with the average-joe in mind, so that there would be the proverbial remote for every gadget or device that is introduced to us, the end-users. 
 
