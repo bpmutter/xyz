@@ -17,13 +17,13 @@ Now, behind the creation of any remote is a team of engineers who essentially 'm
 
 And, within this team, there would very likely be a division of engineers working on the visual and tactile layout (also known as UI/UX, or the 'front-end'), and a separate one working on the wirings and machinery (or the 'back-end') enclosed within the plastic container.
 
-Unbeknownst to our plain reality, the front-end and the back-end are integrated like two peas in a pod, resulting in the remote ultimately communicating with the the TV itself in order to provide that bridge between our physical input and graphical output on display. I'll talk about front-end/back-end, full-stack development in another entry. 
+Unbeknownst to our plain reality, the front-end and the back-end are integrated like two peas in a pod, resulting in the remote ultimately communicating with the TV itself in order to provide that bridge between our physical input and graphical output on display. I'll talk about front-end/back-end, and full-stack development in another entry. 
 
 The reason I bring up this analogy is because I'm being reminded once again that layers of built-in abstractions, such as this remote, exist because it's simply not intuitive for the average person to try to confront abstractions by delving into the core of things. 
 
 After all, every piece of advanced technology is engineered with the average-joe in mind, so that there would be the proverbial remote for every gadget or device that is introduced to us, the end-users. 
 
-Even for computer programmers (who are often the ones building these abstraction tools in this digital era), abstractions such as SDKs and APIs allow them to make life easier in very tangible ways. 
+Even for computer programmers (who are often the ones building these abstraction tools in this digital era), abstractions such as SDKs and APIs make life easier in very tangible ways. 
 
 I'm writing about abstractions because I find myself thinking about this concept a lot, as I am trying to get a better sense of how software development works at its core. 
 
