@@ -59,6 +59,12 @@ that is NOT the last one on the list */
   color: #000;
   }
 
+  &:active {
+    color: #000;
+  }
+
+}
+
 /* this to be used for | journey | longreads | </> | photos for navbar, once mediaquery issue is dealt with and nav bar and title shrinks like the h1 h2 h3 tags */
 .nav-spacer {
   color: #4E6E4E;
@@ -87,6 +93,10 @@ since its the right-tail end of the nav bar */
 
 
   &:hover {
+    color: #000;
+  }
+
+  &:active {
     color: #000;
   }
 
