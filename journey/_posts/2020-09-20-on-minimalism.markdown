@@ -7,7 +7,7 @@ category: journey
 
 Recently I've been trying to apply the philosophical concept of minimalism into my programming workflow. 
 
-To me, minimalism means optimising certain aspects of your life (or life entirely) by reducing redundancy, mainly in the form of 'decluttering'. 
+To me, minimalism means optimising certain aspects of your life (or life entirely) by reducing redundancy, mainly in the form of 'decluttering'. It also means being meticulous with how you design your life, tools, endeavours.
 
 The term 'minimalism' has been popularised by various figures in numerous domains, such as Marie Kondo through her principles of applying minimalism to organise your household belongings.
 
