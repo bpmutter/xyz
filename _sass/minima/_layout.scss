@@ -59,9 +59,9 @@ that is NOT the last one on the list */
   color: #000;
   }
 
-  &:active {
-    color: #000;
-  }
+  // &:active {
+  //   color: #000;
+  // }
 
 }
 
@@ -96,9 +96,9 @@ since its the right-tail end of the nav bar */
     color: #000;
   }
 
-  &:active {
-    color: #000;
-  }
+  // &:active {
+  //   color: #000;
+  // }
 
   // a {
   //   @include relative-font-size(1.25);
