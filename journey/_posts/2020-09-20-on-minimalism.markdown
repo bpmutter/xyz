@@ -13,7 +13,7 @@ The term 'minimalism' has been popularised by various figures in numerous domain
 
 I don't know her exact stance on digital minimalism, since I haven't watched her series yet, but today I want to make a connection between minimalism and the work that I have been doing, which is to develop web-based projects and computer programming. 
 
-In the case of jinyoung.xyz, I have been debating on whether or not to integrate Google Analytics into my website. By the time you read this entry, it may or may not have maintained its place on my public To-do list under &lt;/&gt;.
+In the case of jinyoung.xyz, I have been debating on whether or not to integrate Google Analytics into my website. By the time you read this entry, it may or may not have maintained its place on my public To-do list for the site.
 
 What I can say, right now, is that I've looked into a lot of the technical aspects of the product and understand what it is that I will be using. 
 
