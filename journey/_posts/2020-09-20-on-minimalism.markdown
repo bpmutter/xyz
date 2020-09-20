@@ -5,7 +5,7 @@ date:   2020-09-20 23:05:11 +0900
 category: journey
 ---
 
-Recently I've been trying to apply the philosophical concept of minimalism in my life. 
+Recently I've been trying to apply the philosophical concept of minimalism into my programming workflow. 
 
 To me, minimalism means optimising certain aspects of your life (or life entirely) by reducing redundancy, mainly in the form of 'decluttering'. 
 
