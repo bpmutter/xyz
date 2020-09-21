@@ -29,7 +29,9 @@ After all, I'll be the first to admit that, should I go ahead with adding an ana
 
 Prior to jinyoung.xyz, I had a small-scale Wordpress blog whereby I would make use of its *Stats and Insights* tab which not only shows the blog-owner some surface-level stats like 'views' and 'visitors' count, but also provides insights on countries where the visitors are accessing from. 
 
-I'll also admit that I really enjoyed this built-in functionality with Wordpress, and several times I found a good reason to revisit it. After my interview with my previous team at the United Nations Development Programme, I would be delighted to find the heighted visitor count from Panama (where I ended up working until March of this year), knowing they had clicked on the hyperlink (jinyoungsjourney.wordpress.com) I had shared with them in my post-interview follow-up email. 
+I'll also admit that I really enjoyed this built-in functionality with Wordpress, and several times I found a good reason to revisit it. 
+
+After my interview with my previous team at the United Nations Development Programme, I would be delighted to find the heighted visitor count from Panama (where I ended up working until March of this year), knowing they had clicked on the hyperlink (jinyoungsjourney.wordpress.com) I had shared with them in my post-interview follow-up email. 
 
 Having data like that was a proxy I used for reassurance, that things are going in a good direction. It also showed that certain new friends I made during my travels would actually be interested enough about my story as to appear on this conspicous *Stats and Insights* visualisation. 
 
@@ -37,9 +39,9 @@ Now, why am I having second thoughts on something I already made a good use for?
 
 It all boils down to minimalism. 
 
-The purpose of jinyoung.xyz is not to be an e-commerce platform, or a site that requires user-tracked data for its existence. jinyoung.xyz will thrive, I hope, without a single viewer count for now, as I've been more concerned about keeping active on this public journal than to be obsessed over site-traffic. 
+The purpose of jinyoung.xyz is not to be an e-commerce platform, or a site that requires user-tracked data for its continued existence. jinyoung.xyz will thrive, I hope, without even a single viewer count for now, as I've been more concerned about keeping active on this public journal than to be obsessed over site-traffic. 
 
-While it would be nice for me to see how the website is doing, and how it's ahead of the curve for SEO, I am more concerned about our collective lack of understanding on the way our data is used in the digital world. 
+While it would be nice for me to see how the website is doing, and how it's ahead of the curve for SEO, I am more concerned about our collective lack of understanding of the way our data is used in the digital world. 
 
 It could be that I, the site owner, only have to write in some Javascript snippet to the main HTML script to integrate Google Analytics, and that I wouldn't exactly have to go out of my way to learn 'how to figure this technology out'. 
 
