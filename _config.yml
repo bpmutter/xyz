@@ -1,21 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve --livereload'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
+# quick reference for YAML syntax:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
+# Used for jinyoung.xyz customisation.
+
+# These settings are accessed via {{ site.title }}, {{ site.email }}, etc. in the HTML files
+
+# Any custom variable is supported also, and they are accessible
 # in the templates via {{ site.myvariable }}.
 
 title: jinyoung
@@ -23,8 +15,8 @@ email: jinyoungsjourney@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: "https://jinyoungch0i.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+url: "https://jinyoungch0i.github.io" # the base hostname & protocol for jinyoung.xyz, e.g. http://example.com
+# twitter_username: n/a
 github_username: jinyoungch0i
 
 # Fields minima uses, but are not defaulted with the jekyll new command.
@@ -34,6 +26,7 @@ linkedin_username: jinyoungch0i
 show_excerpts: true
 stackoverflow_username: 14270947/jin-young-choi
 rss: rss
+
 # New fields not defaulted by jekyll-new with the minima theme (i.e. these are custom fields)
 # Add a copyright. A copyright symbol and year will be added automatically
 # copyright: web domain + ext.
