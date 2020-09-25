@@ -23,7 +23,9 @@ With that said, I'm excited to believe that my multilingual proficiency will hel
 
 Computer programming is one of the most rapidly evolving fields of all times, and I am aware that different programming languages are used to tackle different problems. 
 
-For example, Marc, a family-friend of mine who used to work as a programmer at UBS for some 20 years, almost exclusively coded in COBOL, which was the hot language at the time for large financial institutions that processed a lot of data. 
+For example, Marc, a family-friend of mine who used to work as a programmer at UBS for some 20 years, almost exclusively coded in COBOL, which was the hot language at the time for large financial institutions that processed a lot of transaction data. 
+
+COBOL is still used today, though Java has come into play as a modern alternative. 
 
 Now for an anedoctal reference, I have mainly been coding in Python as part of my stack so far. 
 
