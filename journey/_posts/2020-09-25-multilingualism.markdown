@@ -35,14 +35,10 @@ The latter meaning that, if I ever come across a problem while programming in Py
 
 Now, I'm quite confident that I'd like to move onto JavaScript, since I am amazed by the ability to program in-browser, and to make a web application more interactive (the potential to use this functionality is pretty much limitless). 
 
-Overall, I think JS is a much more versatile language, with the emerging ability construct fully-functional backend servers through frameworks like nodeJS. 
+Overall, I think JS is a much more versatile language, with the emerging ability construct fully-functional back-end servers through platforms like nodeJS. 
 
-I've had a great run with Python, and I will most certainly be coding in the language for interview preparation and implementing my growing knowledge in data structures and algorithms.
+I've had a great run with Python, and I will most certainly be coding in the language for interview preparation and for implementing my growing knowledge in data structures and algorithms.
 
-With the switch to JS, though, I cannot be more excited by finally testing out my multilingual capability in switching to a language with a whole new syntax,
+With the switch to JS, though, I cannot be more excited to finally test out my multilingual capability in switching to a language with a whole new syntax;
 
 and essentially a whole new means of communicating and expressing my logic to the computer. :)
-
-
-
-
