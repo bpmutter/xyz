@@ -17,7 +17,7 @@ At least not yet.
 
 This is because, so far, I have been learning how computers work, how software architecture is designed, and how to use various technologies synchronously for collective problem solving. 
 
-To this end, I would even say that it has been more helpful to practice logical thinking, which would otherwise come from the training in critical reasoning.
+To this end, I would even say that it has been more helpful to practice logical thinking, which would otherwise come from a training in critical reasoning.
 
 With that said, I'm excited to believe that my multilingual proficiency will help me grow as an **agile** programmer who will adapt to the ever-changing paradigms of the programming landscape.
 
@@ -30,6 +30,8 @@ COBOL is still used today, though Java has come into play as a modern alternativ
 Now for an anedoctal reference, I have mainly been coding in Python as part of my stack so far. 
 
 Choosing Python as my introductory language was almost a no-brainer for me, given the pseudocode-like syntax and the prevalence of Python practitioners in the global community (also endearingly self-identified as Pythonistas). 
+
+The latter meaning that, if I ever come across a problem while programming in Python, I would most likely be able to find an answer immediately, through a quick search on Stackoverflow.
 
 Now, I'm quite confident that I'd like to move onto JavaScript, since I am amazed by the ability to program in-browser, and to make a web application more interactive (the potential to use this functionality is pretty much limitless). 
 
