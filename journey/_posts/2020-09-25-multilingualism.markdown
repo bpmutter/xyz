@@ -27,7 +27,7 @@ For example, Marc, a family-friend of mine who used to work as a programmer at U
 
 COBOL is still used today, though Java has come into play as a modern alternative. 
 
-Now for an anedoctal reference, I have mainly been coding in Python as part of my stack so far. 
+Now for an anedoctal reference, I have mainly been coding in Python. 
 
 Choosing Python as my introductory language was almost a no-brainer for me, given the pseudocode-like syntax and the prevalence of Python practitioners in the global community (also endearingly self-identified as Pythonistas). 
 
@@ -35,7 +35,7 @@ The latter meaning that, if I ever come across a problem while programming in Py
 
 Now, I'm quite confident that I'd like to move onto JavaScript, since I am amazed by the ability to program in-browser, and to make a web application more interactive (the potential to use this functionality is pretty much limitless). 
 
-Overall, I think JS is a much more versatile language, with the emerging ability construct fully-functional back-end servers through platforms like nodeJS. 
+Overall, I think JavaScript is a much more versatile language, with the emerging ability to construct fully-functional back-end servers through platforms like nodeJS. 
 
 I've had a great run with Python, and I will most certainly be coding in the language for interview preparation and for implementing my growing knowledge in data structures and algorithms.
 
