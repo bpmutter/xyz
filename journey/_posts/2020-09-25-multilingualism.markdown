@@ -9,7 +9,7 @@ Some friends would remark that I wouldn't necessarily have a hard time picking u
 
 I took their comment as part of my arsenal for self-motivation, since it *did* help me muster up the courage to tackle an endeavour I had not previously had the confidence to confront.
 
-The more I become entrenched by coding, the more I come to accept that their remark can be both accurate and misplaced, depending on context. 
+The more I become immersed in coding, the more I come to accept that their remark can be both accurate and misplaced, depending on context. 
 
 To touch on how it's misplaced, I don't believe that I have really been able to reap the benefits of my training in multilingualism along this journey of mine. 
 
