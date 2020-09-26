@@ -5,7 +5,7 @@ date:   2020-09-25 06:05:11 -0500
 category: journey
 ---
 
-Some friends of mine remarked that I wouldn't necessarily have a hard time picking up computer programming, because they know that my proficiency in four human languages is something I associate as one of my personal strengths. 
+Some friends of mine remarked that I wouldn't necessarily have a hard time picking up computer programming because of my proficiency in four human languages. 
 
 I took their comment as part of my arsenal for self-motivation, since it *did* help me muster up the courage to tackle an endeavour I had not previously had the confidence to confront.
 
