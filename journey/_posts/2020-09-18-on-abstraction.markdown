@@ -27,11 +27,11 @@ Even for computer programmers (who are often the ones building these abstraction
 
 I'm writing about abstractions because I find myself thinking about this concept a lot, as I am trying to get a better sense of how software development works at its core. 
 
-I know that programming, or writing code for that matter, is just a another layer of abstraction that, depending on the language at use (compiler/assembly, etc), you're still pardoned from writing, say, machine code since computer scientists have built an additional layer so that we don't have to express ourselves in binary (0s and 1s) to interact with our local machines. 
+I know that programming, or writing code for that matter, is just a another layer of abstraction that, depending on the language at use (compiled/assembly, etc), you're still pardoned from writing, say, machine code since computer scientists have built an additional layer so that we don't have to express ourselves in binary (0s and 1s) to interact with our local machines. 
 
 Now, having to spend an awful lot of time on web development since taking on the development of this platform jinyoung.xyz, I have been tempted to use popular frameworks and templates that would make my life easier and 'get the job done' quicker (or nicer, even) than I would by building a website from scratch. 
 
-The popular frameworks would miraculously make the HTML elements style responsively on multiple device dimensions, and savvy developers know that the offerings of these shiny web technologies go beyond just that. 
+The popular frameworks and would miraculously make the HTML elements style responsively on multiple device dimensions, and savvy developers know that the offerings of these shiny web technologies go beyond just that. 
 
 I'm writing to remind myself that the decision to forgo these frameworks has been a fairly deliberate and philosophical one. 
 
