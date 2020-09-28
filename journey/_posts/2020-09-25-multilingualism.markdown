@@ -29,7 +29,7 @@ COBOL is still used today, though Java has come into play as a modern alternativ
 
 Now for an anedoctal reference, I have mainly been coding in Python. 
 
-Choosing Python as my introductory language was almost a no-brainer for me, given the pseudocode-like syntax and the prevalence of Python practitioners in the global community (also endearingly self-identified as Pythonistas). 
+Choosing Python as my introductory language was almost a no-brainer for me, given the pseudocode-like syntax and the prevalence of Python practitioners in the global community (just look up PyCon). 
 
 The latter meaning that, if I ever come across a problem while programming in Python, I would most likely be able to find an answer immediately, through a quick search on Stackoverflow.
 
