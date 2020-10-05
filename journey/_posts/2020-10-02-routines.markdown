@@ -17,6 +17,10 @@ In between the nomadic journey and finally returning to the US for good, I was g
 
 With all the stops I made in the past year and half, I am finding myself returning, yet again, to the city I have gotten to love: Asheville, North Carolina. This is the place that was my homebase during the summer of 2018, where I took up a seasonal job as a wilderness trail maintainer.
 
+It's really come full circle. 
+
+And my decision to live here for the next six months is my deliberate attempt to reconnect with a place that is so dear to my identity.
+
 Here, I will be continuing to challenge my understanding of software development, work on a backlogged list of projects, and build up my knowledge in data structures and algorithms so that I can be ready for a job as a software enginner towards the end of my time here. 
 
 What am I most excited about? 
