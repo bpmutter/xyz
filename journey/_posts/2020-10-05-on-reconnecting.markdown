@@ -25,7 +25,7 @@ It's really come full circle.
 
 And my decision to live here for the next six months is my deliberate attempt to reconnect with a place that is so dear to my identity. 
 
-The Southern Appalachians are where I had [finally become comfortable with my self-identity](https://www.facebook.com/photo.php?fbid=1752903158112310&set=t.100001779277141&type=3) two years ago, having lived as a foreigner of other's cultures for more than a decade. 
+The Southern Appalachians are where I had finally become comfortable with [my self-identity](https://www.facebook.com/photo.php?fbid=1752903158112310&set=t.100001779277141&type=3){:target="_blank"} two years ago, having lived as a foreigner of other's cultures for more than a decade. 
 
 Here, I will be continuing to challenge my understanding of software development, work on a backlogged list of projects, and build up my knowledge in data structures and algorithms so that I can be ready for a job as a software enginner towards the end of my time here. 
 
