@@ -19,7 +19,7 @@ To-do:
 
 * ~~Make site fully responsive.~~ 
 * (^please drop me an email if website looks funny on your device!)
-* ~~Decide whether or not to integrate analytics.~~ see( On Minimalism)[https://jinyoung.xyz/journey/2020/09/25/multilingualism.html]{:target="_blank"}
+* ~~Decide whether or not to integrate analytics.~~ see [On Minimalism](https://jinyoung.xyz/journey/2020/09/25/multilingualism.html){:target="_blank"}
 * Decide whether to spend time & effort on improving site's SEO.
 * Connect site to other APIs.
 * Make the landing page also 🇰🇷/🇪🇸/🇧🇷 friendly.
