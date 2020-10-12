@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Direction"
-date:   2020-10-10 06:05:11 -0500
+date:   2020-10-11 06:05:11 -0500
 category: journey
 ---
 
