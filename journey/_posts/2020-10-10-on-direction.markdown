@@ -35,10 +35,10 @@ With that said, my new plan is to first focus on building up my software enginee
 
 I will be devoting the next three months (mid-October to mid-January) on the former pursuit, and three months from then (mid-January to mid-April) to focus on the latter.
 
-And, once I feel ready, I will be trying my luck at getting into a highly-selective programming [retreat](https://www.recurse.com/){:target="_blank"}, which I hope will serve as an opportunity to connect with the actors of New York City's vibrant software industry and to continue developing my craft. 
+And, once I feel ready, I will be trying my luck at getting into a highly-selective programming [retreat](https://www.recurse.com/){:target="_blank"}, which I hope will be an opportunity to collaborate with the actors of New York City's vibrant software industry and to continue honing my craft in an intensive learning environment. 
 
-Since the hard part of defining structure and direction to my learning is now done and dusted, I'm excited to dive deeper into actual programming. 
+Since the hard part of defining structure and direction is now done and dusted, I'm excited to dive deeper into actual programming. 
 
-It's been far too long since I've written code! :)
+It's been far too long since I've written code! Time to get back to work. :)
 
 
