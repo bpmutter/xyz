@@ -9,7 +9,7 @@ I'm confident that self-guided learning is something I am willing to remain comm
 
 After all, it's how I've come to where I am in my journey, and it is an endeavour that has remained a fairly deliberate one.
 
-The reason I'm teaching myself programming through my own discipline is that the internet is a giant repository of resources, and it hasn't been difficult to come across (high-quality learning platforms)[https://www.freecodecamp.org/]{:target="_blank"} through the ever-evolving learn-to-code movement.
+The reason I'm teaching myself programming through my own discipline is that the internet is a giant repository of resources, and it hasn't been difficult to come across [high-quality learning platforms](https://www.freecodecamp.org/){:target="_blank"} through the ever-evolving learn-to-code movement.
 
 That said, I do believe that there's a major catch with the self-guided path.
 
