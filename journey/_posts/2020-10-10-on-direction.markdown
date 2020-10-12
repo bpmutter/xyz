@@ -17,7 +17,7 @@ For someone like me, who has gone through the traditional path of higher educati
 
 There are no exams, no immediate network of classmates with whom to work on group assignments, nor have I been assessed on my performance by someone other than myself or through someone else's criteria. 
 
-I suppose that the only criteria that actually matter are building up a portfolio (through deploying proprietary software projects), and ultimately landing employment as a Software Engineer to mark the success of this career transition I've embarked on. 
+I suppose that the only criteria that actually matter are building up a portfolio (through deploying proprietary software projects), and ultimately landing employment to mark the success of this career transition I've embarked on. 
 
 With that said, I've been intentional on prioritising **structure** to my learning in order to make tangible progress and not get lost in this process.
 
@@ -35,7 +35,7 @@ With that said, my new plan is to first focus on building up my software enginee
 
 I will be devoting the next three months (mid-October to mid-January) on the former pursuit, and three months from then (mid-January to mid-April) to focus on the latter.
 
-And, once I feel ready, I will be trying my luck at getting into a highly-selective programming [retreat](https://www.recurse.com/){:target="_blank"}, which I hope will serve as an opportunity to engage with the actors of New York City's vibrant software industry. 
+And, once I feel ready, I will be trying my luck at getting into a highly-selective programming [retreat](https://www.recurse.com/){:target="_blank"}, which I hope will serve as an opportunity to connect with the actors of New York City's vibrant software industry and to continue developing my craft. 
 
 Since the hard part of defining structure and direction to my learning is now done and dusted, I'm excited to dive deeper into actual programming. 
 
