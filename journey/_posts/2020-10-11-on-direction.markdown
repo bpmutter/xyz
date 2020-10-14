@@ -25,7 +25,7 @@ A good portion of devising this structure has come from reaching out to industry
 
 And, suffice it to say that the relative ease of accessing this kind of career mentorship has only corroborated my desire to tackle a field I have a long way to go to grow an expertise in. 
 
-With the new-found information, it's taken some time for me to sit with the insights I've gained, **to fully process them and substantiate them through further research**, and to apply them to my unique journey going forward. 
+With the new-found information, it's taken some time for me to sit with the insights I've gained, to fully process them and substantiate them through further research, and to apply them to my unique journey going forward. 
 
 I've been rather meticulous about incorporating their advice because I'm a firm believer that each and every one of us has the tendency to slip in some personal bias in our perspectives.
 
