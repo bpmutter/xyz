@@ -15,7 +15,7 @@ The term 'minimalism' has been popularised by various figures, such as Marie Kon
 
 I don't know her exact stance on digital minimalism, since I haven't watched her Netflix series yet, but today I want to make a connection between minimalism and the work that I have been doing, which is to develop web-based projects and computer programming. 
 
-In the case of jinyoung.xyz, I have been debating on whether or not to integrate Google Analytics into my website. By the time you read this entry, it may or may not have maintained its place on my public To-do list for the site.
+In the case of jinyoung.xyz, I have been debating on whether or not to integrate Google Analytics into my website. By the time you read this entry, it may or may not have maintained its place on my public [To-do](https://jinyoung.xyz/dev/2020/09/15/jinyoungxyz.html){:target="_blank"} list for the site.
 
 What I can say, right now, is that I've looked into a lot of the technical aspects of the product and understand what it is that I will be using. 
 
