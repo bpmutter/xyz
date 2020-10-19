@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Direction"
+title:  "On Purpose"
 date:   2020-10-18 06:05:11 -0500
 category: journey
 ---
@@ -8,7 +8,7 @@ category: journey
 Placeholder for this week's blog entry. Sore throat is letting me exercise some patience... 
 
 
-sample hyperlink:
+sample hyperlink:ㄴ
 [retreat](https://www.recurse.com/){:target="_blank"}
 
 
