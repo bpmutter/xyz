@@ -35,6 +35,6 @@ While this acknowledgement does mean that I'm moving towards my goal much slower
 
 I'm just practicing some patience while I venture this newfound challenge.
 
-In fact, my first JS project is in-the-making, and I am excited to share it on [</>](https://jinyoung.xyz/dev/){:target="_blank"}.
+In fact, my first JS project is in-the-making, and I am excited to share it on [</>](https://jinyoung.xyz/dev/){:target="_blank"} soon.
 
 Stay tuned! :)
