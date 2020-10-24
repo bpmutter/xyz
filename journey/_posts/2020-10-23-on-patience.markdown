@@ -9,7 +9,7 @@ I've been struggling to write this entry because my mind has been overwhelmingly
 
 Through weekly goals, my plan has been to set some tangible short-term targets for the six months period I am giving myself for the craft of programming. 
 
-In the case of last week, my goal was to become comfortable with JavaScript, enough to be able to write my first project in this language without any external frameworks or libraries (this is also known as ["vanilla JS"](http://vanilla-js.com/){:target="_blank"}).
+In the case of last week, my goal was to become comfortable with JavaScript, enough to be able to write my first project in this language without any external frameworks or libraries (this is also known as [vanilla JS](http://vanilla-js.com/){:target="_blank"}).
 
 It's coming up to two weeks since I had set this weekly goal and, evidently, I am not quite there yet. 
 
