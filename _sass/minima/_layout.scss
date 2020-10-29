@@ -39,7 +39,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: 0.625rem;
-  margin-bottom: 0.001rem; // this is just a margin value so that border can be added
+  margin-bottom: 0.018rem; // this is just a margin value so that border can be added
   // border-bottom: 2.5px dotted $grey-color;
   display: table;
 }
@@ -108,6 +108,12 @@ since its the right-tail end of the nav bar */
   //   }
   // }
 
+}
+
+// weather.js!
+
+.js-weather {
+  font-size: 16px;
 }
 
 // @media screen and (max-width:600px) {
