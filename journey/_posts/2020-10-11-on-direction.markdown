@@ -29,7 +29,7 @@ With the new-found information, it's taken some time for me to sit with the insi
 
 I've been rather meticulous about incorporating their advice because I'm a firm believer that each and every one of us has the tendency to slip in some personal bias in our perspectives.
 
-Since [journey](https://jinyoung.xyz/journey/){:target="_blank"} is an open journal on my transition to software engineering, I also anticipate that my perspective on this platform will be infused with my own bias, and that my perspective will be prone to ongoing development. 
+Since [journey](https://jinyoung.xyz/journey/){:target="_blank"} has mainly been an open journal on my transition to software engineering, I also anticipate that my perspective on this platform will be infused with my own bias, and that my perspective will be prone to ongoing development. 
 
 With that said, my new plan for now is to first focus on building up my software engineering portfolio and, only then, to pick up data structures and algorithms so that I can competently solve the elusive algorithmic challenges inherent to the recruitment processes of tech companies. 
 
