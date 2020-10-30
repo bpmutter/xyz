@@ -34,7 +34,7 @@ copyright: 'jinyoung.xyz'
 
 # Build settings
 # Removed minima theme as it is now a regular theme. (i.e. you're no longer using a gem-based theme; you're using a 'regular' theme.)
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
