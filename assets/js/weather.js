@@ -1,13 +1,12 @@
 
-import { API_KEY } from "../js/config.js";
+var weather = document.getElementById("weather");
+console.log(weather);
 
-const weather = document.querySelector(".js-weather");
-
-const COORDS = "coords";
+var COORDS = "coords";
 
 function getWeather(lat, lng) {
     fetch(
-        `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid=${API_KEY}&units=metric`
+        `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid=be2f9820c6286708f298276e996fa57d&units=metric`
     )
     .then(function(response) {
         return response.json();
