@@ -13,6 +13,7 @@ source "https://rubygems.org"
 # Removed minima theme as it is now a regular theme. (i.e. you're no longer using a gem-based theme; you're using a 'regular' theme.)
 
 gem "minima", "~> 2.5"
+gem "kramdown-parser-gfm"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", "~> 	3.9.0", group: :jekyll_plugins
